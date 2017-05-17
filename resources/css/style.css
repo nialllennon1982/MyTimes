@@ -1,3 +1,5 @@
+/*Header CSS*/
+
 header {
     display: flex;
     align-items: center;
@@ -45,3 +47,5 @@ nav span {
 body {
   margin: 0;
 }
+
+/*Header CSS finished*/
